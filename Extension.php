@@ -1,6 +1,6 @@
 <?php
 
-namespace Slinko\DoctrineOrm;
+namespace Flintstones\DoctrineOrm;
 
 use Silex\Application;
 use Silex\ExtensionInterface;

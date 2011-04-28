@@ -1,10 +1,10 @@
 <?php
 
-namespace Slinko\DoctrineOrm\Tests;
+namespace Flintstones\DoctrineOrm\Tests;
 
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
-use Slinko\DoctrineOrm\Extension as DoctrineOrmExtension;
+use Flintstones\DoctrineOrm\Extension as DoctrineOrmExtension;
 
 class ExtensionTest extends PHPUnit_Framework_TestCase
 {
